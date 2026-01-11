@@ -29,8 +29,8 @@ Antes de rodar:
 ✔️ Python 3.10+  
 ✔️ Zoom do navegador em 100%  
 ✔️ Navegador já logado no Banco do Brasil  
-✔️ Atualize as imagens `imgs/nome_campo.png` e `imgs/salvar.png` com imagens referência do gerenciador de arquivos da sua distro__
-✔️ Pasta de screenshots (`imgs/`) com templates atualizados  
+✔️ Atualize as imagens `imgs/nome_campo.png` e `imgs/salvar.png` com imagens referência do gerenciador de arquivos da sua distro  
+✔️ Pasta de screenshots (`imgs/`) com templates atualizados
 
 ## 📦 Instalação
 
