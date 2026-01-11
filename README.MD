@@ -38,7 +38,7 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/FelipheMP/bb-automation-pdf-bot.git
-cd **bb-automation-pdf-bot**
+cd bb-automation-pdf-bot
 ```
 
 Crie e ative o ambiente virtual:
