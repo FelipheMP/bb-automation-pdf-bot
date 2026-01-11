@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue"/>
-  <img src="https://img.shields.io/github/license/FelipheMP/bb-automation-pdf-bot/LICENSE"/>
+  <img src="https://img.shields.io/github/license/FelipheMP/bb-automation-pdf-bot"/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red"/>
 </p>
 
